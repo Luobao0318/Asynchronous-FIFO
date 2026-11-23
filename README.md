@@ -1,0 +1,1 @@
+- For more details, see [ChipVerify](https://chipverify.com/digital-fundamentals/synchronizers-clock-domain-crossing).
